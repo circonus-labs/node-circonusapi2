@@ -10,5 +10,6 @@
   },
   "author": "Brian Clapper <brian.clapper@circonus.com>",
   "license": "BSD",
+  "main": "./lib",
   "engines": { "node": ">=0.8" }
 }
