@@ -1,6 +1,6 @@
 {
   "name": "circonusapi2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tiny library for interacting with Circonus' API v2",
   "keywords": ["circonus", "monitoring", "rest", "api"],
   "homepage": "https://github.com/neophenix/node-circonusapi2",
