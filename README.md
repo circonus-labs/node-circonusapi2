@@ -5,7 +5,7 @@ Node lib for interacting with v2 of the Circonus API
 
 Exported methods
 ----------------
- * setup:  inital setup function to give the API your auth token an app name
+ * setup:  inital setup function to give the API your auth token, app name, and options
  * get, post, put, delete: proxies for the various HTTP methods used for REST calls
  
 Notes
@@ -27,3 +27,10 @@ Usage
         console.log(body)
       }
     ));
+
+Options
+-----
+* protocol : "http" or "https", default https
+* apihost : default "api.circonus.com"
+* apiport : default 443
+* apipath : default "/v2/"
