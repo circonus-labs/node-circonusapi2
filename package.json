@@ -1,12 +1,12 @@
 {
   "name": "circonusapi2",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Tiny library for interacting with Circonus' API v2",
   "keywords": ["circonus", "monitoring", "rest", "api"],
-  "homepage": "https://github.com/neophenix/node-circonusapi2",
+  "homepage": "https://github.com/circonus-labs/node-circonusapi2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/neophenix/node-circonusapi2.git"
+    "url": "git://github.com/circonus-labs/node-circonusapi2.git"
   },
   "author": "Brian Clapper <brian.clapper@circonus.com>",
   "license": "BSD",
