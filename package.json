@@ -1,6 +1,6 @@
 {
   "name": "circonusapi2",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Tiny library for interacting with Circonus' API v2",
   "keywords": [
     "circonus",
